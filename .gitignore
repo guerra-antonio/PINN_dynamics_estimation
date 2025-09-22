@@ -1,5 +1,4 @@
 # Do not include this files in the repository because they are too heavy and can be generated using "gen_data.py"
-
 *.npz
 
 # Do not include this annoying file
@@ -9,3 +8,6 @@
 dataframe/unitary_N7_test.npy
 dataframe/unitary_N8_test.npy
 trotter.ipynb
+
+# Do not include folder marks
+# *.gitkeep
