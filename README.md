@@ -1,8 +1,9 @@
 # PINN · Unitary Estimation
 
-Applicstions of Physics-Informed Neural Networks (PINNs) for estimating quantum time-evolution unitary operators that governs the evolution of quantum density matrices for many-body systems (between 2 and 8 qubits). The same repository, along with the entire dataset used for the paper's result, can be downloaded in the following link:
-https://udeconce-my.sharepoint.com/:f:/g/personal/antongonzalez_udec_cl/EqkQyIC3p9NPl68uff-9jLABRgsn5TGTRhSM09i7YEENsw?e=2bfouG
-<p align="center">
+Applications of Physics-Informed Neural Networks (PINNs) for estimating quantum time-evolution unitary operators that governs the evolution of quantum density matrices for many-body systems (between 2 and 8 qubits). 
+
+See: https://doi.org/10.48550/arXiv.2601.12619
+
   <img src="banner.jpg" alt="PINN Diagram" width="700">
 </p>
 
