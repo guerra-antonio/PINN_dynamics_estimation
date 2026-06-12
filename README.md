@@ -132,12 +132,14 @@ through the loss function.
 If you use this code, please cite:
 
 ```bibtex
-@article{guerra2026interpolation,
-  title   = {Interpolation of unitaries with time-dependent Hamiltonians via Deep Learning},
-  author  = {Guerra, Antonio and Uzcategui-Contreras, Daniel and Delgado, Aldo and G\'omez, Esteban S.},
-  journal = {Machine Learning: Science and Technology},
-  publisher = {IOP Publishing},
-  year    = {2026}
+@misc{guerra2026interpolationunitariestimedependenthamiltonians,
+      title={Interpolation of unitaries with time-dependent Hamiltonians via Deep Learning}, 
+      author={Antonio Guerra and Daniel Uzcategui-Contreras and Aldo Delgado and Esteban S. Gómez},
+      year={2026},
+      eprint={2601.12619},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2601.12619}, 
 }
 ```
 
